@@ -1,0 +1,13 @@
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\bin\Debug\netcoreapp3.1\testcésharpe.exe
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\bin\Debug\netcoreapp3.1\testcésharpe.deps.json
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\bin\Debug\netcoreapp3.1\testcésharpe.runtimeconfig.json
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\bin\Debug\netcoreapp3.1\testcésharpe.runtimeconfig.dev.json
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\bin\Debug\netcoreapp3.1\testcésharpe.dll
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\bin\Debug\netcoreapp3.1\testcésharpe.pdb
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.csprojAssemblyReference.cache
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.AssemblyInfoInputs.cache
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.AssemblyInfo.cs
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.csproj.CoreCompileInputs.cache
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.dll
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.pdb
+C:\Users\nicol\source\repos\testcésharpe\testcésharpe\obj\Debug\netcoreapp3.1\testcésharpe.genruntimeconfig.cache
